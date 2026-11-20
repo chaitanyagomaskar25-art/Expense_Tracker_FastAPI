@@ -1,7 +1,7 @@
 import os
 
-# API_BASE_URL = os.getenv("EXPENSE_API_URL", "https://expense-tracker-fastapi-m1ut.onrender.com").rstrip("/")
-API_BASE_URL = os.getenv("EXPENSE_API_URL", "http://127.0.0.1:8000").rstrip("/")
+API_BASE_URL = os.getenv("EXPENSE_API_URL", "https://expense-tracker-fastapi-m1ut.onrender.com").rstrip("/")
+# API_BASE_URL = os.getenv("EXPENSE_API_URL", "http://127.0.0.1:8000").rstrip("/")
 
 REQUEST_TIMEOUT = 10
 
