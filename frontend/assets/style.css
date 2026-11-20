@@ -232,3 +232,50 @@ div[data-testid="stRadio"] label:hover {
         padding-bottom: 22px;
     }
 }
+/* Force light theme for all form controls */
+
+.stApp input,
+.stApp textarea {
+    background-color: #FFFFFF !important;
+    color: #17211F !important;
+    -webkit-text-fill-color: #17211F !important;
+    border-color: #DCE5DF !important;
+}
+
+/* Dropdowns */
+.stApp [data-baseweb="select"] > div {
+    background-color: #FFFFFF !important;
+    color: #17211F !important;
+    border-color: #DCE5DF !important;
+}
+
+/* Dropdown text */
+.stApp [data-baseweb="select"] input {
+    background-color: transparent !important;
+    color: #17211F !important;
+}
+
+/* Text area */
+.stApp textarea {
+    background-color: #FFFFFF !important;
+    color: #17211F !important;
+}
+
+/* Number input */
+.stApp [data-testid="stNumberInput"] input {
+    background-color: #FFFFFF !important;
+    color: #17211F !important;
+}
+
+/* Date input */
+.stApp [data-testid="stDateInput"] input {
+    background-color: #FFFFFF !important;
+    color: #17211F !important;
+}
+
+/* Placeholder */
+.stApp input::placeholder,
+.stApp textarea::placeholder {
+    color: #94A3B8 !important;
+    -webkit-text-fill-color: #94A3B8 !important;
+}
