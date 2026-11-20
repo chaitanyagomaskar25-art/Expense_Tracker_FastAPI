@@ -1,0 +1,9 @@
+id,user,title,amount,status,category,date,notes,paid
+ac8fe7b8-d0f6-404e-a584-c6257d9bb396,"{""name"": ""dhjs"", ""email"": ""chaitanyagomaskar25@navgurukul.org""}",djk2,10.0,Pending,Travel,2026-11-20,dn,False
+c5d83005-f35c-4515-85de-ea9e828958bc,"{""name"": ""dhjs"", ""email"": ""chaitanyagomaskar25@navgurukul.org""}",djk2,10.0,Failed,Travel,2026-11-20,dn,False
+0b205ab6-4907-4676-8a73-c1b08c90959c,"{""name"": ""dhjs"", ""email"": ""chaitanyagomaskar25@navgurukul.org""}",djk2,10.0,Pending,Travel,2026-11-20,dn,False
+0c50bb79-ac61-462e-b374-6be5225e636d,"{""name"": ""defghsjk"", ""email"": ""chaitanyagomaskar25@navgurukul.org""}",adsfghjkl;,20.0,Completed,Travel,2026-11-20,nfm,True
+67dea914-a9cc-4a68-834a-3bd5311d6922,"{""name"": ""bnm"", ""email"": ""chaitanyagomaskar25@navgurukul.org""}",hjne,10.0,Failed,Food,2026-11-20,nb  mffffff,False
+f8a202dc-d9f6-4a34-a2d0-b38539eee255,"{""name"": ""bfvc n"", ""email"": ""chaitanyagomaskar25@navgurukul.org""}",bfdn,10.0,Pending,Shopping,2026-11-20,dbndb,False
+eda6572c-8ca0-4615-8ae0-c789ca1b01c4,"{""name"": ""vcbnm,"", ""email"": ""chaitanyagomaskar25@navgurukul.org""}",cbnm,10.0,Pending,Bills,2026-11-20,"vcbnm,",False
+3653c748-f511-4585-9c43-65cee331a8f7,"{""name"": ""zfdxgchvjh"", ""email"": ""chaitanyagomaskar25@navgurukul.org""}","cvbnm,",10.0,Pending,Food,2026-11-20,,False
